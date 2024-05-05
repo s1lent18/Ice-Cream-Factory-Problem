@@ -14,12 +14,12 @@
 #define ToppingCount 2
 #define TicketCount 30
 
-#define F1P 1.05
-#define F2P 2.00
-#define F3P 1.67
+#define F1P 1.86
+#define F2P 1.92
+#define F3P 2.12
 
-#define T1P 0.8
-#define T2P 0.5
+#define T1P 0.29
+#define T2P 0.58
 
 int tickets_remaining = TicketCount;
 int flavors[FlavorCount] = {45, 52, 29};
