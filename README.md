@@ -29,6 +29,7 @@ The Project Consist of 5 System Calls:
 - Out of Bounds
 - Revenue
 - Shop Closure
+
   
 -  Ice Cream Count:
 Ice cream count system calls takes 4 arguments Prints the amount of flavors left at the end of the day
