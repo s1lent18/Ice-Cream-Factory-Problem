@@ -7,6 +7,8 @@ Group Members:
 - Rafay Ahmad 
 - Ahmad Ali Ansari
 
+Requirements:
+
 - COURSE: OPERATING SYSTEM
 - OS: LINUX 6.5.1
 - LANGUAGE: C
