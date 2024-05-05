@@ -15,7 +15,6 @@ Objectives:
 - Integrate the system call into the ice cream factory project
 - Use synchronization to make sure threads function effectively
 - Effectively Handle Deadlocks
-
 - For Creating the system calls and configurating the kernal we followed the following link:
 - [YOUTUBE LINK]: https://youtu.be/85qGRoaOkhQ?feature=shared
 
