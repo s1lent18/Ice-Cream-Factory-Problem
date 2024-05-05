@@ -18,5 +18,5 @@ Objectives:
 - Effectively Handle Deadlocks
 
 - For Creating the system calls and configurating the kernal we followed the following link:
-- [YOUTUBE LINK]: https://youtu.be/85qGRoaOkhQ?feature=shared
+  [YOUTUBE LINK]: https://youtu.be/85qGRoaOkhQ?feature=shared
 
